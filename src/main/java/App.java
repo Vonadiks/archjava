@@ -8,5 +8,6 @@ public class App {
         married.printRegistrationOfBirthType();
         establishingPaternity.printRegistrationOfBirthType();
         singleMother.printRegistrationOfBirthType();
+
     }
 }
