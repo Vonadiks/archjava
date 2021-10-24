@@ -2,5 +2,6 @@ public class RegistrationOfBirthWithEstablishingPaternity implements Registratio
     @Override
     public void printRegistrationOfBirthType() {
         System.out.println("Birth registration with establishing paternity");
+
     }
 }

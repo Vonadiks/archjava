@@ -13,7 +13,6 @@ public class RegistrationOfBirthFactory {
 
             default:
                 return null;
-
         }
     }
 }
